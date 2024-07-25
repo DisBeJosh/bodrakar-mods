@@ -3,6 +3,10 @@
     "hotfixesFormat": null,
     "versions": [
     {
+        "id": "1.0.0",
+        "releasedAt": 1696299585000
+    },
+    {
         "id": "1.0.1",
         "releasedAt": 1721875461782,
         "promotions": {
@@ -14,5 +18,5 @@
             "updateType": "incompatible"
                     }
     }
-    ]
-}
+            ]
+ }
